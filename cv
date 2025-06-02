@@ -1,0 +1,98 @@
+<!--Curriculum Vitae 
+HTML Code-->
+<html> 
+<head> 
+    <title>Aaditya Raj Paudel</title> 
+    <style> 
+        body { 
+            font-family: Arial, sans-serif; 
+            background-color: black; 
+            margin: 0; 
+            padding: 20px; 
+        } 
+        .container { 
+            width: 80%; 
+            max-width: 900px; 
+            margin: auto; 
+            background: white; 
+            padding: 20px; 
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+            border-radius: 10px; 
+        } 
+        .header { 
+            display: flex; 
+            align-items: center; 
+            border-bottom: 2px solid #1565c0; 
+            padding-bottom: 15px; 
+        } 
+        .profile-img { 
+            width: 100px; 
+            height: 100px; 
+            border-radius: 50%; 
+            margin-right: 20px; 
+        } 
+        h1, h2 { 
+            color: #1565c0; 
+        } 
+        .section { 
+            margin-top: 20px; 
+        } 
+        .section h3 { 
+            border-bottom: 1px solid #ddd; 
+            padding-bottom: 5px; 
+            color: #333; 
+        } 
+        ul { 
+            list-style: none; 
+            padding: 0; 
+        } 
+        li { 
+            padding: 5px 0; 
+        } 
+    </style> 
+</head> 
+<body> 
+    <div class="container"> 
+        <div class="header"> 
+            <div> 
+                <h1>Aaditya Raj Paudel</h1> 
+                <h2>Software Engineer</h2> 
+                <p>Email: arpaudel01@gmail.com | Phone: +977 981-5213792</p> 
+                <p>LinkedIn: linkedin.com/in/arpaudel | GitHub: github.com/arpaudel</p> 
+            </div> 
+        </div> 
+        <div class="section"> 
+            <h3>Education</h3> 
+            <p><strong>Institute of Engineering</strong> - BSc in Computer Science (2007
+2011)</p> 
+        </div> 
+        <div class="section"> 
+            <h3>Work Experience</h3> 
+            <ul> 
+                <li><strong>St. Xavier's College</strong> -Department of Computer Science, 
+Assistant Professor of Microprocessor and CPU Structure (2012-17)</li> 
+                <li><strong>F1 Soft</strong> - Junior Software Engineer (2017-19), Senior 
+Developer (2019-2023)</li> 
+                <li><strong>Hamro Apps</strong> - Team Lead and Product Manager (2023
+)</li> 
+            </ul> 
+        </div> 
+        <div class="section"> 
+            <h3>Projects</h3> 
+            <ul> 
+                <li>CPU Performance Analyzer and Microprocessor Simulation Software</li> 
+                <li>Real-time Transaction Processing Platform</li> 
+                <li>Employee Ledger and Collective Performance Report</li> 
+            </ul> 
+        </div> 
+        <div class="section"> 
+            <h3>Programming Languages</h3> 
+            <ul> 
+                <li>Java, Java Script</li> 
+                <li> Python</li> 
+                <li> C, C++</li> 
+            </ul> 
+        </div> 
+    </div> 
+</body> 
+</html>
