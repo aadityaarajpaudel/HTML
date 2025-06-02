@@ -1,0 +1,52 @@
+<html> 
+          <head> 
+                      <title> Multimedia in HTML 
+                      </title> 
+         </head> 
+<body bgcolor= "ccccff">  
+                       <h1 align="center"> Text </h1> 
+        <font> 
+                       <h1> This is heading 1 </h1> 
+                       <h2> This is heading 2 </h2> 
+                <p>   
+                       Likewise there are total of 6 headings available in a html document. 
+               </p>  
+        </font> 
+               <p align=" center"> 
+        <font size = "5"  color="white" > 
+                      Font size, color and alignment can also be changed along with several other 
+things in HTML like this. 
+       </font> 
+               <hr> 
+               </p> 
+                       <h1 align= "center"> Image </h1> 
+       <center> 
+       <img 
+src="https://upload.wikimedia.org/wikipedia/en/9/99/St._Xavier%27s_College.jpg"> 
+       </center> 
+              <p> This is an image. 
+              </p> 
+              <hr> 
+                        <h1 align= "center"> Audio </h1> 
+       <audio controls autoplay> 
+               <source src = 
+"https://upload.wikimedia.org/wikipedia/commons/e/ef/Sayaun_Thunga_Phool_Ka_%28
+ instrumental%29.ogg"> 
+       </audio> 
+             <hr> 
+                       <h1 align= "center"> Video </h1> 
+       <iframe width="1280" height="720" 
+src="https://www.youtube.com/embed/g12hs5uS6x4" title="Rare 5 second violation call 
+on Lebron James" frameborder="0" allow="accelerometer;            autoplay; clipboard
+write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict
+origin-when-cross-origin" allowfullscreen> 
+      </iframe> 
+           <hr> 
+                      <h1 align= "center"> Animation </h1> 
+       <iframe width="1280" height="720" 
+src="https://www.youtube.com/embed/I8v5tjDLSKU" title="My Hero Academia 
+GearShift ⚙[EDIT/AMV] [FUNK UNIVERSO] 4K" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture
+in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</html>
