@@ -1,0 +1,80 @@
+<html > 
+<head> 
+    <title>News Article</title> 
+    <style> 
+        body { 
+            font-family: Times New Roman; 
+            background-color: black; 
+            margin: 0; 
+            padding: 0; 
+        } 
+        .container { 
+            width: 80%; 
+            margin: 45px; 
+            background-color: white; 
+            padding: 20px; 
+        } 
+        header { 
+            text-align: center; 
+            padding: 10px ; 
+            background-color: #339fff; 
+            color: white; 
+        } 
+        header h1 { 
+            margin: 0; 
+        } 
+        article { 
+            margin-top: 20px; 
+        } 
+        article h4 { 
+            border-bottom: 2px solid black; 
+            padding-bottom: 5px; 
+        } 
+        article p { 
+            line-height: 1.6; 
+        } 
+        footer { 
+            text-align: center; 
+            padding: 10px ; 
+            background-color: #339fff; 
+            color: white; 
+            margin-top: 20px; 
+        } 
+    </style> 
+</head> 
+<body> 
+    <div class="container"> 
+        <header> 
+            <h1 font:2px>SET Council Hosts 2<sup>nd</sup> SXC Walkathon</h1> 
+        </header> 
+        <article> 
+            <h4>By RSS</h4> 
+            <p> 
+Kathmandu, February 2, 2025 – The St. Xavier’s College (SXC) Walkathon, organized 
+annually by the SET Council, took place on Saturday with overwhelming participation and 
+a strong message of social inclusion. This particularly aimed to raise awareness about the 
+challenges faced by differently-abled individuals and to support various charitable 
+initiatives. </p> 
+ 
+<p> 
+The walk commenced and concluded at St. Xavier’s College in Maitighar with a stop at 
+Patan Durbar Square. Participation of differently-abled individuals in a special wheelchair 
+rally, emphasized on the need for greater accessibility and inclusivity in society. </p> 
+ 
+<p> 
+Participants shared that it was incredibly moving to witness so many people coming 
+together for such an important cause and events like this remind us that support from 
+society can have a lasting impact and bring about positive change. </p> 
+ 
+<p> 
+The Walkathon not only aimed to raise funds but also served as a platform for spreading 
+awareness about social justice, equality, and the importance of accessibility. The event 
+brought together students, faculty members, and citizens from the local community, uniting 
+them in the shared goal of creating a more inclusive society. </p> 
+        </article> 
+        <footer> 
+            <p>&copy; 2025 Annapurna Post</p> 
+        </footer> 
+    </div> 
+</body> 
+</html> 
